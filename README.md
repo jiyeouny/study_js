@@ -18,3 +18,12 @@ https://share.getliner.com/ILlIB/summary
 
 ## 객체 리터럴
 https://share.getliner.com/94YHH/summary
+
+## 원시 값과 객체의 비교
+https://share.getliner.com/q1QHA/summary
+
+## 함수
+https://share.getliner.com/ejrKa/summary
+
+## 스코프
+https://share.getliner.com/r3yNZ/summary
