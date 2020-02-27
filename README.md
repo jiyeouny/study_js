@@ -27,3 +27,6 @@ https://share.getliner.com/ejrKa/summary
 
 ## 스코프
 https://share.getliner.com/r3yNZ/summary
+
+## 전역 변수의 문제점
+https://share.getliner.com/Lg0NN/summary
